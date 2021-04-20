@@ -5,3 +5,5 @@ INTRESTS:
 🧠 Artificial Intelligence (AI)
 🎨 Graphic Design / VFX
 🎵  Making music
+
+--------------
