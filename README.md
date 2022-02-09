@@ -1,7 +1,7 @@
 📖 Student of University of Technology in Gdansk
 
 INTRESTS:
-🚀 Space related topics
-🧠 Artificial Intelligence (AI)
+🚀 Space
+🧠 AI
 🎨 Graphic Design / VFX
 --------------
