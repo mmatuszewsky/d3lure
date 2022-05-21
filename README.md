@@ -1,6 +1,6 @@
 📖 Student of University of Technology in Gdansk
 
-INTRESTS:
+INTERESTS:
 🚀 Space
 🧠 AI
 🎨 Graphic Design / VFX
